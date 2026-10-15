@@ -76,9 +76,3 @@ Langkah singkat:
 No license file is included in this repository. If you plan to share or distribute the project publicly, consider adding an open-source license (for example, MIT).
 
 ---
-
-```
-
-If you want, I can:
-- Commit this README to the repo for you (I’ll need permission to write), or
-- Produce a version with screenshots, badges, or a Bahasa-first layout. Which do you prefer?
